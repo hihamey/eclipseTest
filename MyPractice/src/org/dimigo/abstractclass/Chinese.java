@@ -1,6 +1,6 @@
 package org.dimigo.abstractclass;
 
-// 테스트333
+// 테스트444
 public class Chinese extends Person {
 
 	@Override
