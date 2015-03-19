@@ -1,6 +1,7 @@
 package org.dimigo.abstractclass;
 
-// test
+// 수정1
+// 수정2
 public class GreetingTest {
 
 	public static void main(String[] args) {
