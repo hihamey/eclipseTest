@@ -1,6 +1,6 @@
 package org.dimigo.abstractclass;
 
-// 테스트
+// 테스트11
 public class GreetingTest {
 
 	public static void main(String[] args) {
